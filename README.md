@@ -27,7 +27,7 @@
 <br>
 
 <a href="https://github.com/richcie/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=richcie&show_icons=true&theme=maroongold&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=richcie&show_icons=true&theme=maroongold&bg_color=45,2D0000,400000,550000,6A0000,800000,8B0000&border_color=FFD900&title_color=FFD900&text_color=FFD900&custom_title=Our+Github+Stats" />
 </a>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"><b> THM Just For Fun Achievement : </b>
