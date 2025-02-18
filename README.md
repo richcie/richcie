@@ -5,9 +5,9 @@
 <br>
 
 <br>
-- Rust Learner
-- Playing CTF's at spare time
-- FreeLancer
+- Rust Learner <br>
+- Playing CTF's at spare time <br>
+- FreeLancer <br>
 - Fullstack Developer
 
 <br><br>
