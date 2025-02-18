@@ -30,4 +30,10 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=richcie&show_icons=true&theme=gruvbox&hide_border=true" />
 </a>
 
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"><b> THM Just For Fun Achievement : </b>
+<img src="https://assets.tryhackme.com/room-badges/c39af7c93cbf743389757e8b648c3590.png" />
+
+## 🏆 <b> THM Latest Certificates : </b>
+<img src="https://i.ibb.co.com/F4mdX8F8/2025-02-18-14-41-57-THM-KC5-T3-FSQYB-pdf-Opera.png" width="100%" />
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"><br><br>
