@@ -11,7 +11,7 @@
 - **TryHackMe Journey :** <br />
 <img src="https://tryhackme-badges.s3.amazonaws.com/richcie.f22.png" alt="Your Image Badge" />
 
-- **Mastered Languages & Frameworks**: <br />
+- **Mastered Languages, Frameworks and Tools**: <br />
     ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) <br />
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br />
     ![Rust](https://img.shields.io/badge/Rust-F70000?style=for-the-badge&logo=rust&logoColor=white) <br />
