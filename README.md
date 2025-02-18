@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F70000&size=25&center=true&vCenter=true&width=900&height=100&lines=Hello,+I'm+RazorZinc;Cyber+Security;Fullstack+Developer;Red+Teamers;CTF+Newbie;Computer+Science+Student;"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F70000&size=25&center=true&vCenter=true&width=900&height=100&lines=Hello,+I'm+RazorZinc;I'm+Interested+in+Cyber+Security;I'm+Fullstack+Developer;I'm+Red+Teamer;I'm+CTF+Newbie;I'm+Computer+Science+Student;"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"><br><br>
@@ -27,7 +27,7 @@
 <br>
 
 <a href="https://github.com/richcie/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=richcie&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=richcie&show_icons=true&theme=monokai&hide_border=true" />
 </a>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"><b> THM Just For Fun Achievement : </b>
