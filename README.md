@@ -37,6 +37,6 @@
 <img src="https://assets.tryhackme.com/room-badges/c39af7c93cbf743389757e8b648c3590.png" />
 
 ## 🏆 <b> THM Latest Certificate : </b>
-<img src="https://i.ibb.co.com/DgYTGr30/cyber-security-101.png" width="100%" />
+<img src="https://i.ibb.co.com/YTXwD0vH/cyber-security-101.png" width="100%" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"><br><br>
