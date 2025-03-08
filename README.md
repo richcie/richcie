@@ -6,7 +6,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 - **TryHackMe Journey :** <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/richcie.f22.png" alt="Your Image Badge" /><br><br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/richcie.f22.png" alt="RazorZinc's Image Badge" /><br><br>
 
 - **Mastered Languages, Frameworks**: <br />
     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) <br />
