@@ -34,7 +34,7 @@
 </a>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"><b> THM Just For Fun Achievement : </b>
-<img src="https://assets.tryhackme.com/room-badges/c39af7c93cbf743389757e8b648c3590.png" />
+<img src="https://assets.tryhackme.com/room-badges/e1097850039aa23d4f8455d198044185.png" />
 
 ## 🏆 <b> THM Latest Certificate : </b>
 <img src="https://i.ibb.co.com/YTXwD0vH/cyber-security-101.png" width="100%" />
